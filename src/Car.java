@@ -1,6 +1,8 @@
 public class Car {
     private String model;
 
+    private jbh;
+
     private String hhgh;
 
     // pridedam
