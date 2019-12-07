@@ -4,7 +4,7 @@ public class Car {
 
     private int hgh;
 
-    private jbh;
+    private String;
 
     private String hhgh;
 
