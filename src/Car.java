@@ -4,6 +4,10 @@ public class Car {
 
     private int hgh;
 
+    private jbh;
+
+    private String hhgh;
+
     // pridedam
 
     public Car (String model) {
